@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/logo.png" width="120" alt="AiDock">
+<img src="assets/logo.png" width="120" alt="AiDock">
 
 # پرامپت‌ساز آی‌داک · AiDock Prompt Builder
 
@@ -20,7 +20,7 @@
 یه ابزار تک‌فایلیه که با چند کلیک فارسی، یه پرامپت انگلیسی سینمایی برای ChatGPT، Gemini، Midjourney و ابزارهای ویدیو مثل Kling و Veo می‌سازه.
 فرق یه عکس معمولی با یه عکس سینمایی، چند تا تصمیمه: نور، لنز، زاویه، رنگ‌بندی، سبک و حس. این ابزار همه‌شون رو با دکمه‌های فارسی ازت می‌پرسه.
 
-<img src="screenshots/desktop.jpg" alt="پرامپت‌ساز آی‌داک">
+<img src="assets/desktop.jpg" alt="پرامپت‌ساز آی‌داک">
 
 ## امکانات
 
@@ -34,11 +34,13 @@
 - **این پرامپت چی می‌گه؟** معنی فارسیِ هر تیکه از پرامپت انگلیسی
 - موبایل‌فرندلی، با پیش‌نمایش شناور
 
-<p align="center"><img src="screenshots/mobile.jpg" width="300" alt="نسخه‌ی موبایل"></p>
+<p align="center"><img src="assets/mobile.jpg" width="300" alt="نسخه‌ی موبایل"></p>
 
 ## استفاده
 
-فقط فایل `index.html` رو دانلود کن و توی مرورگر باز کن. هیچ نصب، API یا اینترنتی لازم نیست.
+1. در همین صفحه روی دکمه‌ی سبز **Code** بزن و **Download ZIP** رو انتخاب کن ([لینک مستقیم دانلود](https://github.com/aidock-ir-dev/aidock-prompt-builder/archive/refs/heads/main.zip)).
+2. فایل ZIP رو باز کن و `index.html` رو با **کروم**، **اج** یا **سافاری** اجرا کن. بعد از دانلود، بدون اینترنت هم کار می‌کنه.
+3. گزینه‌ها رو انتخاب کن، **کپی پرامپت** رو بزن و توی ChatGPT، Gemini یا Midjourney بچسبون.
 
 ## ساختار پروژه
 
@@ -59,11 +61,14 @@
 
 کلی پرامپت فارسیِ تست‌شده هم روی **[aidock.ir](https://aidock.ir)** منتظرته.
 
+## مجوز
+
+© ۱۴۰۵ [aidock.ir](https://aidock.ir). همه‌ی حقوق محفوظ است؛ جزئیات در [LICENSE](LICENSE).
+
 </div>
 
 ---
 
 **English:** A free, offline, single-file prompt builder. Pick options in Persian and get a cinematic English prompt for ChatGPT, Gemini, Midjourney or video tools, with a live mascot preview of every choice. Open `index.html` in any browser — no install, no API.
 
-Font: [Vazirmatn](https://github.com/rastikerdar/vazirmatn), SIL Open Font License, see `fonts/OFL.txt`.
-Code: MIT License.
+© 2026 (1405) [aidock.ir](https://aidock.ir). All rights reserved; see [LICENSE](LICENSE). Font: [Vazirmatn](https://github.com/rastikerdar/vazirmatn), SIL Open Font License, see `fonts/OFL.txt`.
