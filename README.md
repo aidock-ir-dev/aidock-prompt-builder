@@ -53,13 +53,13 @@
 
 برای اضافه‌کردن گزینه‌ی جدید، `src/data.js` رو ویرایش کن و `build.py` رو اجرا کن.
 
-## ابزارهای رایگان دیگه‌ی آی‌داک
+## ابزارهای دیگر آی‌داک
 
-- 💬 [چت‌ساز آی‌داک](https://github.com/aidock-ir-dev/aidock-chat-maker)
-- 🎨 [رنگ‌یاب آی‌داک](https://github.com/aidock-ir-dev/aidock-palette)
-- 📱 [ماکاپ‌ساز آی‌داک](https://github.com/aidock-ir-dev/aidock-mockup)
+- 📱 [ماکاپ‌ساز آی‌داک](https://github.com/aidock-ir-dev/aidock-mockup): عکس و ویدیوت توی قاب گوشی، لپ‌تاپ و مرورگر
+- 🎨 [رنگ‌یاب آی‌داک](https://github.com/aidock-ir-dev/aidock-palette): پالت رنگ هر عکس، ویدیو یا گیف
+- 💬 [چت‌ساز آی‌داک](https://github.com/aidock-ir-dev/aidock-chat-maker): ویدیوی چت برای ریلز و شورتس
 
-کلی پرامپت فارسیِ تست‌شده هم روی **[aidock.ir](https://aidock.ir)** منتظرته.
+همه‌ی ابزارها یه‌جا: [github.com/aidock-ir-dev](https://github.com/aidock-ir-dev) · کلی پرامپت فارسیِ تست‌شده: [aidock.ir](https://aidock.ir)
 
 ## مجوز
 
